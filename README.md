@@ -1,4 +1,4 @@
 # portfolio
 Hello!
 
-This is a collection of projects I have worked on. 
+Created a thermostat for a final project for the international baccalaureate for highschool. 
