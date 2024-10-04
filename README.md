@@ -1,4 +1,2 @@
-# portfolio
-Hello!
-
-Created a thermostat for a final project for the international baccalaureate for highschool. 
+# Projet Peltier
+Hello!This is the code for a high school project. 
